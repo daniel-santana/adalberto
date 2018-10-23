@@ -1,0 +1,8 @@
+#Adicione nesta lista, na primeira coluna, o nome fictício, e na segunda o IP fictício
+#Separe as colunas com 1 espaço em branco
+#Linhas começadas com '#' são ignoradas
+
+www.nomeficticio.com.br 10.2.3.4
+www.dominio.com.br 4.2.198.90
+www.sete.com.br 254.222.98.39
+www.auladeredes.org 123.234.222.1
